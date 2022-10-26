@@ -8,8 +8,9 @@ export const Profile = (props) => {
     backgroundColor: "#f5e1c9",
     padding: "10px",
     fontFamily: "Arial",
-    width: "20rem",
+    width: "18rem",
     textAlign: "center",
+    marginTop: "100px",
   };
   return (
     <div>

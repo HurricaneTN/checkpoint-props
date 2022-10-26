@@ -18,14 +18,14 @@ function App() {
     <div style={{ backgroundColor: "#faedf0" }}>
       <Navbar bg="dark">
         <Container>
-          <img
-            src={logo}
-            width="60"
-            height="60"
-            className="d-inline-block align-top"
-            alt="React Bootstrap logo"
-          />
           <marquee style={{ color: "white", fontSize: "30px" }}>
+            <img
+              src={logo}
+              width="60"
+              height="60"
+              className="d-inline-block align-top"
+              alt="React Bootstrap logo"
+            />
             Bienvenue sur mon portfolio, conçu avec React JS
           </marquee>
         </Container>
